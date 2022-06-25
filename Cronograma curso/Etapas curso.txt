@@ -1,3 +1,15 @@
-O Bootcamp Santander, foi desenvolvido numa parceria de sucesso entre Dio e Santander. Vai oferecer 50 mil bolsas para pessoas interessadas em evoluir na carreira ou até mesmo trocar de aréa.
+O Bootcamp Santander, foi desenvolvido numa parceria de sucesso entre Dio e Santander. Vai oferecer 50 mil bolsas para pessoas interessadas em evoluir na carreira ou até mesmo trocar de área.
 
-Seu cronograma é dividido em "X" módulos.
+Seu cronograma é dividido em 6 módulos, onde cada um deles é composto por diversas aulas, onde é apresentado as técnologias e conhecimentos necessários para se tornar um Dev fullstack.
+
+*Módulo 0: Prepare-se para a jornada - 4 atividades.
+
+*Módulo I: Conteúdo de Abertura - 3 atividades.
+
+*Módulo II: html/css3/js - 17 atividades.
+
+*Módulo III: Angular - 12 atividades.
+
+*Módulo IV: Java - 11 atividades.
+
+*Módulo V - Spring Framework - 6 atividades.
