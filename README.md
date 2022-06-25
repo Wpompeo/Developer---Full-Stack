@@ -2,7 +2,7 @@
 Portfólio de projetos FullStack
 
 <p align="center">
-  <img src="banner.png">
+  <img src="img web.jpg">
 </p>
 
 # Wagner Pompeo
