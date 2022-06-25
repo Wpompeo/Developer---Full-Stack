@@ -1,8 +1,8 @@
 # Desenvolvimento FullStack
 Portfólio de projetos FullStack
 
-<p align="center">
-  <img src="img web.jpg">
+<p align="left">
+  <img src="prog.jpg">
 </p>
 
 # Wagner Pompeo
