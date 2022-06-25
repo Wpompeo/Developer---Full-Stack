@@ -12,14 +12,19 @@ Portfólio de projetos FullStack
 
 **Background in:** C/C++, Python, html, análise de dados, desenvolvimento de hardwares eletrônicos e estudando o desenvolvimento web.
 
-**Links:**
+**Links pessoais:**
 * [LinkedIn](https://www.linkedin.com/in/wpc23)
+
+**Links úteis:**
+* [Dio](https://www.dio.me/)
+* [Git](https://git-scm.com/downloads)
+* [Markdown](https://www.markdownguide.org)
 
 
 
 ## Projetos:
 
-* **
+* *Em construção.*
 * **
 * **
 
