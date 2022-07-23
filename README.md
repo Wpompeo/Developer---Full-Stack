@@ -24,7 +24,7 @@ Portfólio de projetos FullStack
 
 ## Projetos:
 
-* *Em construção.*
+* *Criando página instagram.*
 * **
 * **
 
