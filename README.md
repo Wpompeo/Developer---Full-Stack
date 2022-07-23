@@ -22,9 +22,9 @@ Portfólio de projetos FullStack
 
 
 
-## Projetos:
+## Projetos desenvolvidos durante bootcamp:
 
+* *Criando seu primeiro repositório no github*
 * *Criando página instagram.*
-* **
-* **
+
 
